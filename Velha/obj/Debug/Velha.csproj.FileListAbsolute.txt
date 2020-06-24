@@ -1,0 +1,18 @@
+C:\Users\Samsung\source\repos\Velha\Velha\bin\Debug\Velha.exe.config
+C:\Users\Samsung\source\repos\Velha\Velha\bin\Debug\Velha.exe
+C:\Users\Samsung\source\repos\Velha\Velha\bin\Debug\Velha.pdb
+C:\Users\Samsung\source\repos\Velha\Velha\obj\Debug\Velha.csprojAssemblyReference.cache
+C:\Users\Samsung\source\repos\Velha\Velha\obj\Debug\Velha.Form1.resources
+C:\Users\Samsung\source\repos\Velha\Velha\obj\Debug\Velha.Properties.Resources.resources
+C:\Users\Samsung\source\repos\Velha\Velha\obj\Debug\Velha.csproj.GenerateResource.cache
+C:\Users\Samsung\source\repos\Velha\Velha\obj\Debug\Velha.exe
+C:\Users\Samsung\source\repos\Velha\Velha\obj\Debug\Velha.pdb
+C:\Users\Samsung\Desktop\Curso Apex\Exercicios na aula\Velha\Velha\bin\Debug\Velha.exe.config
+C:\Users\Samsung\Desktop\Curso Apex\Exercicios na aula\Velha\Velha\bin\Debug\Velha.exe
+C:\Users\Samsung\Desktop\Curso Apex\Exercicios na aula\Velha\Velha\bin\Debug\Velha.pdb
+C:\Users\Samsung\Desktop\Curso Apex\Exercicios na aula\Velha\Velha\obj\Debug\Velha.csprojAssemblyReference.cache
+C:\Users\Samsung\Desktop\Curso Apex\Exercicios na aula\Velha\Velha\obj\Debug\Velha.Form1.resources
+C:\Users\Samsung\Desktop\Curso Apex\Exercicios na aula\Velha\Velha\obj\Debug\Velha.Properties.Resources.resources
+C:\Users\Samsung\Desktop\Curso Apex\Exercicios na aula\Velha\Velha\obj\Debug\Velha.csproj.GenerateResource.cache
+C:\Users\Samsung\Desktop\Curso Apex\Exercicios na aula\Velha\Velha\obj\Debug\Velha.exe
+C:\Users\Samsung\Desktop\Curso Apex\Exercicios na aula\Velha\Velha\obj\Debug\Velha.pdb
